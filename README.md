@@ -8,7 +8,7 @@
 
 -Create a new database there and keep name 'simplestresult'.
 
--Go to import option and select database SQL folder and click go.
+-Go to import option and select database SQL folder provided inside the project files and once u import the "simplestresult.sql" file,click go.
 
 -Now the Project Runs Successfully
 
