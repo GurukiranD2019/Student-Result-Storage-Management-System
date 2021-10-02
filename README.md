@@ -11,3 +11,7 @@
 -Go to import option and select database SQL folder and click go.
 
 -Now the Project Runs Successfully
+
+To login as student 
+Login id - Student
+Password - Password@123.
